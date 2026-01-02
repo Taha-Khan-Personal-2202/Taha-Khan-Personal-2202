@@ -1,4 +1,4 @@
-Hi, I’m Taha Khan 👋  
+Hi, I’m Taha Khan 👋
 Software Engineer | Full-Stack .NET & Blazor Developer  
 
 I am a software engineer with nearly 3 years of experience building reliable, scalable, and maintainable web applications using .NET Core and Blazor. I enjoy working on real-world systems that require clean architecture, stable APIs, and well-structured databases.
