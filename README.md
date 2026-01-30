@@ -1,4 +1,4 @@
-Hi, I’m Taha Khan 👋     
+Hi, I’m Taha Khan
 Software Engineer | Full-Stack .NET & Blazor Developer  
 
 I am a software engineer with nearly 3 years of experience building reliable, scalable, and maintainable web applications using .NET Core and Blazor. I enjoy working on real-world systems that require clean architecture, stable APIs, and well-structured databases.
@@ -18,13 +18,13 @@ Tech Stack
 • SQL Server, PostgreSQL  
 • Git, GitHub  
 
-Featured Projects (In Progress 🚧)  
+Featured Projects (In Progress)  
 • Admin Dashboard System (Blazor + .NET Core)  
 • REST API Backend with Clean Architecture  
 • Role-Based Authentication & Authorization System  
 
 I enjoy learning continuously, improving existing codebases, and building systems that are easy to understand, maintain, and scale.
 
-📍 India  
-🔗 LinkedIn: https://www.linkedin.com/in/taha-khan-dev  
-🌐 Portfolio: https://taha-dev.netlify.app
+Country: India  
+LinkedIn: https://www.linkedin.com/in/taha-khan-dev  
+Portfolio: https://taha-dev.netlify.app
